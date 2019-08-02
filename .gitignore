@@ -1,0 +1,10 @@
+node_modules
+dist
+reports
+log
+npm-debug.log
+logs
+/target/
+.settings
+.project
+.classpath
